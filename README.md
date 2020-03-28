@@ -1,0 +1,2 @@
+# Camera-Calibration
+Find unknown Intrinsic and Extrinsic camera parameter (o = K [R|t] O), Intrinsic Matrix are Parameters component internal to the camera such as (focal length, geometry and radial distortion coefficients of the lens) and use to project Point from camera coordinate to image plan. Extrinsic Matrix are Parameters of camera position [R|t].External to camera and specific to location camera in world coordinate frame. Used to transform 3D point from world to camera coordinate.
